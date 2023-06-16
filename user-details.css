@@ -1,0 +1,27 @@
+body {
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.user-details, .post {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 25px;
+    padding: 30px;
+}
+
+button {
+    cursor: pointer;
+    padding: 15px 10px;
+    border-radius: 5px;
+    margin: 20px;
+    background: #7952b3;
+    font-size: 15px;
+    color: white;
+    box-shadow: 8px 3px 3px grey;
+}
+button:hover{
+    background: violet;
+    color: black;
+}
